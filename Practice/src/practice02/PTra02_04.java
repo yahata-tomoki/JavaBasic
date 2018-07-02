@@ -12,8 +12,11 @@ public class PTra02_04 {
 
 		// ★ d_num と d_num の合計をd_numに代入してください
 
+		int total= d_num + d_num;
+		
 		// ★ d_numの値を出力してください。
 
+		System.out.println(total);
 
 	}
 }
